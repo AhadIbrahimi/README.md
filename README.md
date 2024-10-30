@@ -1,4 +1,4 @@
-# Sayed Abdul Ahad Ibrahimi
+# Sayed Ibrahimi
 
 ## 👨‍💻 Aspiring Software Engineer | CS Senior at Wheaton College
 
