@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Aspiring Software Engineer | CS Senior at Wheaton College
 
-Hello! I'm Sayed, a passionate coder on a journey to become a Full-Stack Engineer. Welcome to my GitHub playground where I bring ideas to life through code!
+Dedicated Software Engineer with varied experience in building full-stack software for innovative solutions that make a difference.
 
 ### 🚀 What I'm Up To
 
@@ -32,4 +32,4 @@ Tools: Git, AWS, Firebase, RESTful APIs
 
 ---
 
-💡 Open to entry-level software engineering opportunities! Let's build something amazing together.
+💡 Open to entry-level software engineering opportunities.
