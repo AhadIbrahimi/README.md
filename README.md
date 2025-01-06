@@ -1,5 +1,3 @@
-# Sayed Ibrahimi
-
 ## 👨‍💻 Aspiring Software Engineer | CS Senior at Wheaton College
 
 Dedicated Software Engineer with varied experience in building full-stack software for innovative solutions that make a difference.
